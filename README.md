@@ -1,2 +1,10 @@
 # ECHOSCU
 
+## this.pduTypes
+- 0x01 - A-ASSOCIATE-RQ PDU: ASSOC Request
+- 0x02 - A-ASSOCIATE-AC PDU: ASSOC Accept
+- 0x03 - A-ASSOCIATE-RJ PDU: ASSOC Reject
+- 0x04 - P-DATA-TF PDU: Data
+- 0x05 - A-RELEASE-RQ PDU: RELEASE Request
+- 0x06 - A-RELEASE-RP PDU: RELEASE Response
+- 0x07 - A-ABORT PDU

@@ -9,7 +9,6 @@ const pduTypes = [
 
 class ProtocolDataUnit {
   constructor(buffer) {
-    debugger;
     return pduTypes.map((pduType) => pduType.getInstance(buffer)).find((pduInstance) => pduInstance);
   }
 }

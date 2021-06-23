@@ -35,6 +35,11 @@ AssocRequest {
 
 ```
 
+### Схема DICOM пакета (буффер,к оторый парсится)
+<img src="/docs/capture_buffer_01.jpg">
+<img src="/docs/capture_buffer_02.jpg">
+
+
 Ссылка на стандарт: [DICOM Upper Layer Protocol for TCP/IP Data Units Structure](http://dicom.nema.org/medical/dicom/2017e/output/chtml/part08/sect_9.3.html)
 
 ### Figure 9-1. Protocol Data Units Structure and Encoding
